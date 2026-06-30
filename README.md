@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=✦%20Welcome%20to%20my%20corner%20✦&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=✦%20Welcome%20✦&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 <br/>
 <img src="https://i.pinimg.com/originals/0f/29/87/0f2987e3ffecf886a47511e29532a753.gif" width="280"/>
 <br/>
@@ -17,13 +17,13 @@
 ---
 ### 🛠️ My Tech Skill Tree
 - ⚔️ **Main weapons of choice:**
-  &nbsp;<img src="https://skillicons.dev/icons?i=nodejs" height="20"/> Node.js
+  &nbsp;<img src="https://skillicons.dev/icons?i=nodejs" height="20"/> **Node.js**
   &nbsp;and&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="20"/> Python
-- 🤖 **Discord frameworks I use:**
-  &nbsp;<img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/discord.py-5865F2?style=flat&logo=discord&logoColor=white"/>
-- 📦 **Tools I work with:**
+  <img src="https://skillicons.dev/icons?i=python" height="20"/> **Python**
+- 🤖 **Discord frameworks:**
+  &nbsp;<img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+- 📦 **Tools:**
   &nbsp;<img src="https://skillicons.dev/icons?i=vscode" height="20"/>
   &nbsp;<img src="https://skillicons.dev/icons?i=git" height="20"/>
   &nbsp;<img src="https://skillicons.dev/icons?i=github" height="20"/>
@@ -44,25 +44,16 @@
 <br/>
 ---
 ### 💬 Discord
-<table>
-<tr>
-<td width="500" align="left">
-<img align="left" src="https://github.com/ZexDev.png" width="80" style="border-radius:50%"/>
-&nbsp;&nbsp;&nbsp;**Zex Dev** &nbsp; <img src="https://img.shields.io/badge/BOT-5865F2?style=flat&logo=discord&logoColor=white"/>
-&nbsp;&nbsp;&nbsp;<sub>Zex Dev botat discord 🤖 | Bot Developer ⚡</sub>
-&nbsp;&nbsp;&nbsp;
-> 🤖 I build bots. Fast bots. Powerful bots.
-> Node.js & Python are my weapons of choice.
-> Discord is my world — find me there.
-&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/🟢 Online-43B581?style=flat&logoColor=white"/>
-</td>
-</tr>
-</table>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1500621220167553160?theme=dark&bg=0d1117&borderRadius=15px&animated=true&idleMessage=Building+bots...+⚡)](https://discord.com/users/1500621220167553160)
 <br/>
 ### 🔗 Connect With Me
-<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discord.com/users/1500621220167553160">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 &nbsp;
-<a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://youtube.com">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 <br/>
 ---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=150&section=footer&text=Zex+Dev+botat+discord&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
